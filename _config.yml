@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Anik."
-title_right   : "a QA" # default: ""
-description   : "Advocator of quality with in the team"
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "Anik"
+title_right   : "A Quality Analayst" # default: ""
+description   : "Advocator of quality within the team"
+keywords      : "Software Testing, Exploratory Testing, Agile Mindset, Test Strategy"
+url           :  # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Anik Kale"
 
 plugins:
   - jekyll-sitemap
