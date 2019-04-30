@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploratory Testing"
+title: "Exploratory Testing teaches Agile Minset"
 description: "Exploratory Testing teaches agile mindset"
 comments: true
 keywords: "Exploratory Testing, Agile Mindset"
