@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Anik.."
-title_right   : "A Quality Analyst" # default: ""
+title_left    : "Blog for"
+title_right   : "Quality Analyst" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://heiswayi.github.io/thinkspace # site url
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Anik Kale"
 
 plugins:
   - jekyll-sitemap
